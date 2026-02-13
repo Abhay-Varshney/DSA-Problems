@@ -1,5 +1,5 @@
 class Solution:
-    def Left_rotate_K_Time(self,arr):
+    def Move_zeroes_to_end(self,arr):
         temp=[]
         for i in range(len(arr)):
             if arr[i]!=0:
@@ -10,7 +10,7 @@ class Solution:
             arr[i]=0
 arr=[1,0,4,7,0,3,8,0,0,6,0]
 obj=Solution()
-obj.Left_rotate_K_Time(arr)
+obj.Move_zeroes_to_end(arr)
 print(arr)
 
 
