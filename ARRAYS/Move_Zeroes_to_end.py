@@ -1,4 +1,3 @@
-# Method 1
 class Solution:
     def Left_rotate_K_Time(self,arr):
         temp=[]
