@@ -10,7 +10,7 @@ class Solution:
                 count=0
         return max(max_count,count)
 arr=[0,0,1,0,1,1,1,0,1,1,1,1,1,0]
-obj=Solution() 
+obj=Solution()
 print(obj.Consecutive_ones(arr))
 
 
