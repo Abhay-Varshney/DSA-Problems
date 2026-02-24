@@ -1,4 +1,4 @@
-# Method-1 (Brute Force)
+
 class Solution:
     def Majority_element(self, arr):
         candidate = None
