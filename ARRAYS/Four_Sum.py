@@ -11,7 +11,7 @@ class Solution:
         return list(result)
 arr = [1, -2, 3, 5, 7, 9]
 obj = Solution()
-print(obj.FourSum(arr,7))
+print(obj.FourSum(arr,7)
 
 
 '''[(1, -2, 3, 5)]'''
