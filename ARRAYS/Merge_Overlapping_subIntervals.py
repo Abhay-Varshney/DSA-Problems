@@ -23,7 +23,7 @@ class Solution:
         return result
 interval = [[1,5],[3,6],[8,10],[15,18]]
 obj = Solution()
-print(obj.Merge_overlapping_subIntervals(interval))
+print(obj.Merge_overlapping_subIntervals(interal))
 
 
 '''[[1, 6], [8, 10], [15, 18]]'''
