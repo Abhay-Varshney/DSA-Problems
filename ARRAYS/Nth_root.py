@@ -1,5 +1,5 @@
 class Solution:
-    def Nth_root(self,n,m):
+    def Nth_root(self,n,m)
         if n==0 or n==1:
             return n
         low,high=1,n
