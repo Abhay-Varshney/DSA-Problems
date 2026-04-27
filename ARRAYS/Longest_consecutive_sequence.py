@@ -14,7 +14,7 @@ class Solution:
         return res
 arr=[ 3, 7, 2, 5, 8, 4, 6, 0, 1]
 obj=Solution()
-print(obj.Longest_consecutive_sequence(arr))
+print(obj.Longest_consecutive_sequence(ar))
 
 
 '''9'''
