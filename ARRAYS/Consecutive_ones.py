@@ -14,4 +14,4 @@ obj=Solution()
 print(obj.Consecutive_ones(arr))
 
 
-'''5''
+'''5'''
